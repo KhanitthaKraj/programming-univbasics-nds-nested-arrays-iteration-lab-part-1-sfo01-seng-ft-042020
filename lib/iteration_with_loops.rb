@@ -13,6 +13,7 @@ def find_even_values(src)
     inner_count = 0 
     while inner_count < src[count].length do
       p 
+      inner_count += 1
     end
   end
   count += 1
